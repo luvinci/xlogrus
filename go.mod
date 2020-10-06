@@ -1,3 +1,3 @@
-module github.com/luvinci/x-logrus
+module github.com/shisuizhe/x-logrus
 
 go 1.15
